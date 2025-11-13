@@ -3,7 +3,7 @@
 body
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: lightgray;
+    background-color: green;
     text-align: center;
     margin:20px;
 }
@@ -15,10 +15,10 @@ margin-bottom: 30px;
 .product-box
 {
 background-color: white;
-width: 300px;
+width: 600px;
 margin: 0 auto;
 padding: 15px;
-border: 2px solid gray;
+border: 2px solid black;
 border-radius: 8px;
 }
 .product-image
